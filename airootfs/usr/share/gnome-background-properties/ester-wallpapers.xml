@@ -1,0 +1,61 @@
+<wallpapers>
+<!-- Wallpaper 3 -->
+<wallpaper>
+  <name>2</name>
+  <filename>/usr/share/backgrounds/ester-backgrounds/2.png</filename>
+  <options>zoom</options>
+  <pcolor>#ffffff</pcolor>
+  <scolor>#000000</scolor>
+  <shade_type>solid</shade_type>
+</wallpaper>
+
+<!-- Wallpaper 4 -->
+<wallpaper>
+  <name>8</name>
+  <filename>/usr/share/backgrounds/ester-backgrounds/8.png</filename>
+  <options>zoom</options>
+  <pcolor>#ffffff</pcolor>
+  <scolor>#000000</scolor>
+  <shade_type>solid</shade_type>
+</wallpaper>
+
+<!-- Wallpaper 5 -->
+<wallpaper>
+  <name>4</name>
+  <filename>/usr/share/backgrounds/ester-backgrounds/4.png</filename>
+  <options>zoom</options>
+  <pcolor>#ffffff</pcolor>
+  <scolor>#000000</scolor>
+  <shade_type>solid</shade_type>
+</wallpaper>
+
+<!-- Wallpaper 6 -->
+<wallpaper>
+  <name>7</name>
+  <filename>/usr/share/backgrounds/ester-backgrounds/7.png</filename>
+  <options>zoom</options>
+  <pcolor>#ffffff</pcolor>
+  <scolor>#000000</scolor>
+  <shade_type>solid</shade_type>
+</wallpaper>
+
+<!-- Wallpaper 15 -->
+<wallpaper>
+  <name>15</name>
+  <filename>/usr/share/backgrounds/ester-backgrounds/15.png</filename>
+  <options>zoom</options>
+  <pcolor>#ffffff</pcolor>
+  <scolor>#000000</scolor>
+  <shade_type>solid</shade_type>
+</wallpaper>
+ 
+<!-- Wallpaper 16 -->
+<wallpaper>
+  <name>16</name>
+  <filename>/usr/share/backgrounds/ester-backgrounds/16.png</filename>
+  <options>zoom</options>
+  <pcolor>#ffffff</pcolor>
+  <scolor>#000000</scolor>
+  <shade_type>solid</shade_type>
+</wallpaper>
+</wallpapers>

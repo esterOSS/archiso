@@ -1,0 +1,43 @@
+# Default Wallpaper
+[org.gnome.desktop.background]
+picture-uri = 'file:///usr/share/backgrounds/ester-backgrounds/15.png'
+picture-uri-dark = 'file:///usr/share/backgrounds/ester-backgrounds/16.png'
+
+# Default Icon Theme
+[org.gnome.desktop.interface]
+icon-theme = "estericons"
+
+# Default Desktop Theme
+[org.gnome.desktop.interface]
+gtk-theme = "adw-gtk3"
+
+[org.gnome.desktop.interface]
+monospace-font-name="Monospace 13"
+
+[org.gnome.desktop.interface:GNOME-Greeter]
+gtk-theme = "adw-gtk3-dark"
+icon-theme = "estericons"
+cursor-theme = "DMZ-White"
+font-name = "Qualcomm Next Regular 11"
+monospace-font-name = "Monospace 13"
+font-antialiasing = 'rgba'
+
+[org.gnome.login-screen]
+logo=''
+
+[org.gnome.desktop.interface]
+cursor-theme = "Adwaita"
+font-name = "Gilroy-Bold 11"
+monospace-font-name = "Monospace 13"
+document-font-name = "Sans 11"
+enable-hot-corners = false
+font-antialiasing = 'rgba'
+
+[org.gnome.desktop.wm.preferences]
+button-layout = ':minimize,maximize,close'
+titlebar-font = 'Qualcomm Next Bold 11'
+
+
+[org.gnome.shell]
+enabled-extensions = [ 'dash-to-dock@micxgx.gmail.com','transparent-top-bar@ftpix.com','user-theme@gnome-shell-extensions.gcampax.github.com' ]
+favorite-apps = [ 'firefox.desktop','org.gnome.Calendar.desktop','co.uk.esteros.Updater.desktop','org.gnome.Music.desktop','org.gnome.Nautilus.desktop','org.gnome.Software.desktop','org.gnome.Console.desktop','org.gnome.Settings.desktop','calamares.desktop' ]
