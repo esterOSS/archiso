@@ -18,7 +18,7 @@ monospace-font-name="Monospace 13"
 gtk-theme = "adw-gtk3-dark"
 icon-theme = "estericons"
 cursor-theme = "DMZ-White"
-font-name = "Qualcomm Next Regular 11"
+font-name = "Gilroy-Medium 11"
 monospace-font-name = "Monospace 13"
 font-antialiasing = 'rgba'
 
@@ -27,7 +27,7 @@ logo=''
 
 [org.gnome.desktop.interface]
 cursor-theme = "Adwaita"
-font-name = "Gilroy-Bold 11"
+font-name = "Gilroy-Medium 11"
 monospace-font-name = "Monospace 13"
 document-font-name = "Sans 11"
 enable-hot-corners = false
@@ -35,7 +35,7 @@ font-antialiasing = 'rgba'
 
 [org.gnome.desktop.wm.preferences]
 button-layout = ':minimize,maximize,close'
-titlebar-font = 'Qualcomm Next Bold 11'
+titlebar-font = 'Gilroy-Medium 11'
 
 
 [org.gnome.shell]

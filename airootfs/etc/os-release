@@ -1,9 +1,9 @@
-NAME="esterOS 25"
-PRETTY_NAME="esterOS 25"
+NAME="esterOS 25.1"
+PRETTY_NAME="esterOS 25.1"
 ID=arch
 BUILD_ID=rolling
 ANSI_COLOR="38;2;23;147;209"
-HOME_URL="https://esteros.uk.to/"
+HOME_URL="https://esteros.uk/"
 DOCUMENTATION_URL=""
 SUPPORT_URL=""
 BUG_REPORT_URL=""
